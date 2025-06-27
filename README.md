@@ -1,6 +1,6 @@
 # Manual B2B Lead Generation by GetYourProspect
 
-**GetYourProspect (GYP)** helps B2B companies generate accurate, conversion-ready leads through **manual, human-verified lead research**. We specialize in custom prospect list building, email verification, CRM cleaning, and account-based targeting.
+**Get Your Prospect (GYP)** helps B2B companies generate accurate, conversion-ready leads through **manual, human-verified lead research**. We specialize in custom prospect list building, email verification, CRM cleaning, and account-based targeting.
 
 ---
 
@@ -30,7 +30,7 @@ Check out our **YouTube channel** for hands-on guides:
 ## 🌐 Connect With Us
 
 🔗 **Website**: [https://getyourprospect.com](https://getyourprospect.com)  
-📧 **Email**: hello@getyourprospect.com  
+📧 **Email**: it@getyourprospect.com  
 
 ### 💼 Business Profiles:
 - [Google Business](https://g.co/kgs/FFe2mL6)  
